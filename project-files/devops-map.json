@@ -6,7 +6,7 @@
                     "ID": "0",
                     "typeID": "Label",
                     "zOrder": "0",
-                    "measuredW": "118",
+                    "measuredW": "114",
                     "measuredH": "40",
                     "x": "652",
                     "y": "124",
@@ -43,7 +43,6 @@
                             "y": 104
                         },
                         "rightArrow": "false",
-                        "shape": "bezier",
                         "stroke": "dotted"
                     }
                 },
@@ -59,7 +58,6 @@
                     "y": "180",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
                         "leftArrow": "false",
                         "p0": {
                             "x": 0,
@@ -73,8 +71,7 @@
                             "x": 1,
                             "y": 146
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -89,7 +86,6 @@
                     "y": "336",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
                         "leftArrow": "false",
                         "p0": {
                             "x": 1,
@@ -103,8 +99,7 @@
                             "x": 57,
                             "y": 474
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -135,8 +130,6 @@
                     "y": "299",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -149,8 +142,7 @@
                             "x": 157,
                             "y": 41
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -174,7 +166,7 @@
                     "typeID": "TextInput",
                     "zOrder": "7",
                     "w": "106",
-                    "measuredW": "57",
+                    "measuredW": "58",
                     "measuredH": "32",
                     "x": "269",
                     "y": "164",
@@ -197,8 +189,6 @@
                     "y": "205",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 1,
                             "y": 0
@@ -211,8 +201,7 @@
                             "x": 41,
                             "y": 67
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -220,7 +209,7 @@
                     "typeID": "TextInput",
                     "zOrder": "9",
                     "w": "168",
-                    "measuredW": "163",
+                    "measuredW": "159",
                     "measuredH": "32",
                     "x": "468",
                     "y": "264",
@@ -243,8 +232,6 @@
                     "y": "203",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -257,8 +244,7 @@
                             "x": 137,
                             "y": 78
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -274,7 +260,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 177,
                             "y": 36
@@ -287,8 +272,7 @@
                             "x": 0,
                             "y": 67
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -296,7 +280,7 @@
                     "typeID": "TextInput",
                     "zOrder": "12",
                     "w": "168",
-                    "measuredW": "61",
+                    "measuredW": "62",
                     "measuredH": "32",
                     "x": "862",
                     "y": "309",
@@ -319,8 +303,6 @@
                     "y": "340",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 82,
                             "y": 44
@@ -333,8 +315,7 @@
                             "x": 1,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -365,8 +346,6 @@
                     "y": "343",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 98,
                             "y": 80
@@ -379,8 +358,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -388,7 +366,7 @@
                     "typeID": "TextInput",
                     "zOrder": "16",
                     "w": "182",
-                    "measuredW": "53",
+                    "measuredW": "52",
                     "measuredH": "32",
                     "x": "1055",
                     "y": "407",
@@ -411,8 +389,6 @@
                     "y": "342",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 123,
                             "y": 117
@@ -425,8 +401,7 @@
                             "x": 1,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -434,7 +409,7 @@
                     "typeID": "TextInput",
                     "zOrder": "18",
                     "w": "182",
-                    "measuredW": "71",
+                    "measuredW": "73",
                     "measuredH": "32",
                     "x": "1055",
                     "y": "444",
@@ -450,7 +425,7 @@
                     "typeID": "TextInput",
                     "zOrder": "19",
                     "w": "184",
-                    "measuredW": "63",
+                    "measuredW": "61",
                     "measuredH": "32",
                     "x": "1053",
                     "y": "482",
@@ -473,8 +448,6 @@
                     "y": "342",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 146,
                             "y": 155
@@ -487,8 +460,7 @@
                             "x": 4,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -496,7 +468,7 @@
                     "typeID": "TextInput",
                     "zOrder": "21",
                     "w": "182",
-                    "measuredW": "166",
+                    "measuredW": "167",
                     "measuredH": "29",
                     "x": "1054",
                     "y": "519",
@@ -519,8 +491,6 @@
                     "y": "343",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 165,
                             "y": 192
@@ -533,8 +503,7 @@
                             "x": 7,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -542,7 +511,7 @@
                     "typeID": "TextInput",
                     "zOrder": "23",
                     "w": "168",
-                    "measuredW": "104",
+                    "measuredW": "106",
                     "measuredH": "32",
                     "x": "421",
                     "y": "423",
@@ -566,7 +535,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 102
@@ -579,8 +547,7 @@
                             "x": 122,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -620,7 +587,7 @@
                     "typeID": "TextInput",
                     "zOrder": "27",
                     "w": "101",
-                    "measuredW": "72",
+                    "measuredW": "73",
                     "measuredH": "32",
                     "x": "483",
                     "y": "514",
@@ -644,7 +611,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 65
@@ -657,8 +623,7 @@
                             "x": 127,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -674,7 +639,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 57
@@ -687,8 +651,7 @@
                             "x": 13,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -703,8 +666,6 @@
                     "y": "455",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 1,
                             "y": 59
@@ -717,8 +678,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -726,7 +686,7 @@
                     "typeID": "TextInput",
                     "zOrder": "31",
                     "w": "168",
-                    "measuredW": "78",
+                    "measuredW": "77",
                     "measuredH": "32",
                     "x": "803",
                     "y": "586",
@@ -749,8 +709,6 @@
                     "y": "346",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 120,
                             "y": 236
@@ -763,9 +721,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier",
-                        "text": ""
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -780,8 +736,6 @@
                     "y": "620",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 89,
                             "y": 16
@@ -794,8 +748,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -835,7 +788,7 @@
                     "typeID": "TextInput",
                     "zOrder": "36",
                     "w": "182",
-                    "measuredW": "79",
+                    "measuredW": "80",
                     "measuredH": "32",
                     "x": "1031",
                     "y": "693",
@@ -858,8 +811,6 @@
                     "y": "618",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 124,
                             "y": 50
@@ -872,8 +823,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -888,8 +838,6 @@
                     "y": "619",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 145,
                             "y": 90
@@ -902,8 +850,7 @@
                             "x": 1,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -911,7 +858,7 @@
                     "typeID": "TextInput",
                     "zOrder": "39",
                     "w": "182",
-                    "measuredW": "62",
+                    "measuredW": "65",
                     "measuredH": "32",
                     "x": "1032",
                     "y": "732",
@@ -927,7 +874,7 @@
                     "typeID": "TextInput",
                     "zOrder": "40",
                     "w": "182",
-                    "measuredW": "79",
+                    "measuredW": "68",
                     "measuredH": "32",
                     "x": "1033",
                     "y": "769",
@@ -935,7 +882,7 @@
                         "align": "center",
                         "color": "2848996",
                         "size": "18",
-                        "text": "Bamboo"
+                        "text": "GitLab"
                     }
                 },
                 {
@@ -950,8 +897,6 @@
                     "y": "619",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 167,
                             "y": 128
@@ -964,8 +909,7 @@
                             "x": 2,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -980,8 +924,6 @@
                     "y": "619",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 200,
                             "y": 164
@@ -994,8 +936,7 @@
                             "x": 3,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1026,8 +967,6 @@
                     "y": "794",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -1040,8 +979,7 @@
                             "x": 178,
                             "y": 28
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1049,7 +987,7 @@
                     "typeID": "TextInput",
                     "zOrder": "45",
                     "w": "230",
-                    "measuredW": "206",
+                    "measuredW": "204",
                     "measuredH": "32",
                     "x": "355",
                     "y": "775",
@@ -1065,7 +1003,7 @@
                     "typeID": "TextInput",
                     "zOrder": "46",
                     "w": "101",
-                    "measuredW": "69",
+                    "measuredW": "72",
                     "measuredH": "32",
                     "x": "154",
                     "y": "709",
@@ -1097,7 +1035,7 @@
                     "typeID": "TextInput",
                     "zOrder": "48",
                     "w": "101",
-                    "measuredW": "82",
+                    "measuredW": "85",
                     "measuredH": "32",
                     "x": "460",
                     "y": "576",
@@ -1113,13 +1051,13 @@
                     "typeID": "TextInput",
                     "zOrder": "49",
                     "w": "115",
-                    "measuredW": "111",
+                    "measuredW": "113",
                     "measuredH": "32",
                     "x": "531",
                     "y": "638",
                     "properties": {
                         "align": "center",
-                        "color": "15658734",
+                        "color": "2848996",
                         "size": "18",
                         "text": "Prometheus"
                     }
@@ -1129,7 +1067,7 @@
                     "typeID": "TextInput",
                     "zOrder": "50",
                     "w": "141",
-                    "measuredW": "127",
+                    "measuredW": "126",
                     "measuredH": "32",
                     "x": "114",
                     "y": "759",
@@ -1152,8 +1090,6 @@
                     "y": "776",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -1166,8 +1102,7 @@
                             "x": 90,
                             "y": 21
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1182,8 +1117,6 @@
                     "y": "740",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -1196,8 +1129,7 @@
                             "x": 91,
                             "y": 42
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1212,8 +1144,6 @@
                     "y": "610",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -1226,8 +1156,7 @@
                             "x": 38,
                             "y": 162
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1242,8 +1171,6 @@
                     "y": "615",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 1,
                             "y": 0
@@ -1256,8 +1183,7 @@
                             "x": 29,
                             "y": 158
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1272,8 +1198,6 @@
                     "y": "674",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 1,
                             "y": 0
@@ -1286,8 +1210,7 @@
                             "x": 7,
                             "y": 102
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1302,8 +1225,6 @@
                     "y": "811",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 165,
                             "y": 78
@@ -1316,8 +1237,7 @@
                             "x": 0,
                             "y": 10
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1325,7 +1245,7 @@
                     "typeID": "TextInput",
                     "zOrder": "57",
                     "w": "116",
-                    "measuredW": "94",
+                    "measuredW": "90",
                     "measuredH": "32",
                     "x": "148",
                     "y": "449",
@@ -1349,7 +1269,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 28.51103198528034
@@ -1362,8 +1281,7 @@
                             "x": 146.33333333333331,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1371,7 +1289,7 @@
                     "typeID": "TextInput",
                     "zOrder": "59",
                     "w": "116",
-                    "measuredW": "69",
+                    "measuredW": "71",
                     "measuredH": "32",
                     "x": "185",
                     "y": "368",
@@ -1394,8 +1312,6 @@
                     "y": "346",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0.19283790167659495
@@ -1408,8 +1324,7 @@
                             "x": 145.33333333333326,
                             "y": 68.37803669761603
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1417,7 +1332,7 @@
                     "typeID": "TextInput",
                     "zOrder": "61",
                     "w": "168",
-                    "measuredW": "103",
+                    "measuredW": "104",
                     "measuredH": "32",
                     "x": "919",
                     "y": "892",
@@ -1433,7 +1348,7 @@
                     "typeID": "TextInput",
                     "zOrder": "62",
                     "w": "182",
-                    "measuredW": "71",
+                    "measuredW": "73",
                     "measuredH": "32",
                     "x": "1124",
                     "y": "822",
@@ -1457,7 +1372,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 103,
                             "y": 2
@@ -1470,8 +1384,7 @@
                             "x": 0,
                             "y": 54
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1479,7 +1392,7 @@
                     "typeID": "TextInput",
                     "zOrder": "64",
                     "w": "182",
-                    "measuredW": "115",
+                    "measuredW": "117",
                     "measuredH": "32",
                     "x": "1054",
                     "y": "555",
@@ -1502,8 +1415,6 @@
                     "y": "343",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 189,
                             "y": 228
@@ -1516,8 +1427,7 @@
                             "x": 5,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1532,8 +1442,6 @@
                     "y": "821",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 36,
                             "y": 841
@@ -1546,9 +1454,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier",
-                        "text": ""
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1572,7 +1478,7 @@
                     "typeID": "TextInput",
                     "zOrder": "68",
                     "w": "182",
-                    "measuredW": "37",
+                    "measuredW": "35",
                     "measuredH": "32",
                     "x": "1124",
                     "y": "859",
@@ -1596,7 +1502,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 81,
                             "y": 1
@@ -1609,8 +1514,7 @@
                             "x": 0,
                             "y": 16
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1618,13 +1522,13 @@
                     "typeID": "TextInput",
                     "zOrder": "70",
                     "w": "168",
-                    "measuredW": "161",
+                    "measuredW": "160",
                     "measuredH": "32",
                     "x": "442",
                     "y": "961",
                     "properties": {
                         "align": "center",
-                        "color": "16776960",
+                        "color": "2848996",
                         "size": "18",
                         "text": "Cluster Managers"
                     }
@@ -1642,7 +1546,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 152
@@ -1655,8 +1558,7 @@
                             "x": 155,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1672,7 +1574,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 11
@@ -1685,8 +1586,7 @@
                             "x": 105,
                             "y": 5
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1694,13 +1594,13 @@
                     "typeID": "TextInput",
                     "zOrder": "73",
                     "w": "182",
-                    "measuredW": "108",
+                    "measuredW": "109",
                     "measuredH": "32",
                     "x": "152",
                     "y": "964",
                     "properties": {
                         "align": "center",
-                        "color": "16770457",
+                        "color": "2848996",
                         "size": "18",
                         "text": "Kubernetes"
                     }
@@ -1718,7 +1618,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 28
@@ -1731,8 +1630,7 @@
                             "x": 104,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1740,7 +1638,7 @@
                     "typeID": "TextInput",
                     "zOrder": "75",
                     "w": "182",
-                    "measuredW": "113",
+                    "measuredW": "117",
                     "measuredH": "32",
                     "x": "152",
                     "y": "1004",
@@ -1756,7 +1654,7 @@
                     "typeID": "TextInput",
                     "zOrder": "76",
                     "w": "182",
-                    "measuredW": "67",
+                    "measuredW": "69",
                     "measuredH": "32",
                     "x": "152",
                     "y": "1043",
@@ -1780,7 +1678,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 58
@@ -1793,8 +1690,7 @@
                             "x": 127,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1802,7 +1698,7 @@
                     "typeID": "TextInput",
                     "zOrder": "78",
                     "w": "182",
-                    "measuredW": "133",
+                    "measuredW": "132",
                     "measuredH": "32",
                     "x": "244",
                     "y": "1083",
@@ -1826,7 +1722,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 88
@@ -1839,8 +1734,7 @@
                             "x": 65,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1848,7 +1742,7 @@
                     "typeID": "TextInput",
                     "zOrder": "80",
                     "w": "182",
-                    "measuredW": "71",
+                    "measuredW": "74",
                     "measuredH": "32",
                     "x": "453",
                     "y": "1083",
@@ -1871,8 +1765,6 @@
                     "y": "996",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 1,
                             "y": 85
@@ -1885,8 +1777,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1901,8 +1792,6 @@
                     "y": "302",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 1
@@ -1915,8 +1804,7 @@
                             "x": 165,
                             "y": 118
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -1930,7 +1818,7 @@
                     "y": "287",
                     "properties": {
                         "align": "center",
-                        "color": "16770457",
+                        "color": "2848996",
                         "size": "18",
                         "text": "Terraform"
                     }
@@ -1976,9 +1864,7 @@
                         "p2": {
                             "x": 4,
                             "y": 0
-                        },
-                        "rightArrow": "true",
-                        "shape": "bezier"
+                        }
                     }
                 },
                 {
@@ -1994,7 +1880,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 398
@@ -2007,8 +1892,7 @@
                             "x": 73,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2016,7 +1900,7 @@
                     "typeID": "TextInput",
                     "zOrder": "87",
                     "w": "159",
-                    "measuredW": "155",
+                    "measuredW": "154",
                     "measuredH": "32",
                     "x": "567",
                     "y": "1223",
@@ -2040,7 +1924,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 39
@@ -2053,8 +1936,7 @@
                             "x": 90,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2062,7 +1944,7 @@
                     "typeID": "TextInput",
                     "zOrder": "89",
                     "w": "136",
-                    "measuredW": "118",
+                    "measuredW": "116",
                     "measuredH": "32",
                     "x": "338",
                     "y": "1261",
@@ -2086,7 +1968,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 65
@@ -2099,8 +1980,7 @@
                             "x": 105,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2108,7 +1988,7 @@
                     "typeID": "TextInput",
                     "zOrder": "91",
                     "w": "136",
-                    "measuredW": "105",
+                    "measuredW": "107",
                     "measuredH": "32",
                     "x": "337",
                     "y": "1304",
@@ -2132,7 +2012,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 109
@@ -2145,8 +2024,7 @@
                             "x": 131,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2154,7 +2032,7 @@
                     "typeID": "TextInput",
                     "zOrder": "93",
                     "w": "138",
-                    "measuredW": "120",
+                    "measuredW": "118",
                     "measuredH": "32",
                     "x": "909",
                     "y": "961",
@@ -2177,8 +2055,6 @@
                     "y": "823",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 127,
                             "y": 137
@@ -2191,8 +2067,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2200,7 +2075,7 @@
                     "typeID": "TextInput",
                     "zOrder": "95",
                     "w": "182",
-                    "measuredW": "75",
+                    "measuredW": "76",
                     "measuredH": "32",
                     "x": "1105",
                     "y": "946",
@@ -2224,7 +2099,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 57,
                             "y": 2
@@ -2237,8 +2111,7 @@
                             "x": 0,
                             "y": 10
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2246,7 +2119,7 @@
                     "typeID": "TextInput",
                     "zOrder": "97",
                     "w": "182",
-                    "measuredW": "60",
+                    "measuredW": "61",
                     "measuredH": "32",
                     "x": "1106",
                     "y": "982",
@@ -2269,8 +2142,6 @@
                     "y": "981",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 58,
                             "y": 20
@@ -2283,8 +2154,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2306,7 +2176,7 @@
                     "typeID": "TextInput",
                     "zOrder": "100",
                     "w": "447",
-                    "measuredW": "317",
+                    "measuredW": "310",
                     "measuredH": "32",
                     "x": "993",
                     "y": "1236",
@@ -2345,8 +2215,6 @@
                     "y": "991",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 61,
                             "y": 47
@@ -2359,8 +2227,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2368,7 +2235,7 @@
                     "typeID": "TextInput",
                     "zOrder": "103",
                     "w": "182",
-                    "measuredW": "38",
+                    "measuredW": "37",
                     "measuredH": "32",
                     "x": "1106",
                     "y": "1058",
@@ -2391,8 +2258,6 @@
                     "y": "995",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 78,
                             "y": 78
@@ -2405,8 +2270,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2437,8 +2301,6 @@
                     "y": "1244",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 138,
                             "y": 8
@@ -2451,8 +2313,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2460,7 +2321,7 @@
                     "typeID": "TextInput",
                     "zOrder": "107",
                     "w": "446",
-                    "measuredW": "364",
+                    "measuredW": "355",
                     "measuredH": "32",
                     "x": "993",
                     "y": "1272",
@@ -2483,8 +2344,6 @@
                     "y": "1254",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 127,
                             "y": 35
@@ -2497,8 +2356,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2506,7 +2364,7 @@
                     "typeID": "TextInput",
                     "zOrder": "109",
                     "w": "444",
-                    "measuredW": "386",
+                    "measuredW": "379",
                     "measuredH": "32",
                     "x": "994",
                     "y": "1310",
@@ -2529,8 +2387,6 @@
                     "y": "1255",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 126,
                             "y": 71
@@ -2543,8 +2399,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2552,7 +2407,7 @@
                     "typeID": "TextInput",
                     "zOrder": "111",
                     "w": "550",
-                    "measuredW": "535",
+                    "measuredW": "526",
                     "measuredH": "32",
                     "x": "140",
                     "y": "1145",
@@ -2575,8 +2430,6 @@
                     "y": "1256",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 135,
                             "y": 111
@@ -2589,8 +2442,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2598,7 +2450,7 @@
                     "typeID": "TextInput",
                     "zOrder": "113",
                     "w": "447",
-                    "measuredW": "333",
+                    "measuredW": "326",
                     "measuredH": "32",
                     "x": "993",
                     "y": "1199",
@@ -2614,7 +2466,7 @@
                     "typeID": "TextInput",
                     "zOrder": "114",
                     "w": "447",
-                    "measuredW": "339",
+                    "measuredW": "337",
                     "measuredH": "32",
                     "x": "993",
                     "y": "1164",
@@ -2638,7 +2490,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 129,
                             "y": 1
@@ -2651,8 +2502,7 @@
                             "x": 0,
                             "y": 26
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2668,7 +2518,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 129,
                             "y": 0
@@ -2681,8 +2530,7 @@
                             "x": 0,
                             "y": 56
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2697,8 +2545,6 @@
                     "y": "1176",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -2711,8 +2557,7 @@
                             "x": 157,
                             "y": 52
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2720,7 +2565,7 @@
                     "typeID": "TextInput",
                     "zOrder": "118",
                     "w": "439",
-                    "measuredW": "177",
+                    "measuredW": "173",
                     "measuredH": "32",
                     "x": "999",
                     "y": "1345",
@@ -2736,7 +2581,7 @@
                     "typeID": "TextInput",
                     "zOrder": "119",
                     "w": "166",
-                    "measuredW": "156",
+                    "measuredW": "157",
                     "measuredH": "32",
                     "x": "315",
                     "y": "1348",
@@ -2760,7 +2605,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 1,
                             "y": 86
@@ -2773,8 +2617,7 @@
                             "x": 92,
                             "y": 1
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2797,7 +2640,7 @@
                     "typeID": "TextInput",
                     "zOrder": "122",
                     "w": "184",
-                    "measuredW": "156",
+                    "measuredW": "157",
                     "measuredH": "32",
                     "x": "144",
                     "y": "1455",
@@ -2828,7 +2671,7 @@
                     "typeID": "TextInput",
                     "zOrder": "124",
                     "w": "194",
-                    "measuredW": "171",
+                    "measuredW": "172",
                     "measuredH": "32",
                     "x": "338",
                     "y": "1452",
@@ -2859,7 +2702,7 @@
                     "typeID": "TextInput",
                     "zOrder": "126",
                     "w": "194",
-                    "measuredW": "187",
+                    "measuredW": "183",
                     "measuredH": "32",
                     "x": "338",
                     "y": "1532",
@@ -2890,7 +2733,7 @@
                     "typeID": "TextInput",
                     "zOrder": "128",
                     "w": "194",
-                    "measuredW": "81",
+                    "measuredW": "82",
                     "measuredH": "32",
                     "x": "541",
                     "y": "1452",
@@ -2913,8 +2756,6 @@
                     "y": "1380",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 8,
                             "y": 71
@@ -2927,8 +2768,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2943,8 +2783,6 @@
                     "y": "1382",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 97,
                             "y": 71
@@ -2957,8 +2795,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -2966,7 +2803,7 @@
                     "typeID": "TextInput",
                     "zOrder": "131",
                     "w": "438",
-                    "measuredW": "472",
+                    "measuredW": "442",
                     "measuredH": "32",
                     "x": "1002",
                     "y": "1380",
@@ -2982,7 +2819,7 @@
                     "typeID": "TextInput",
                     "zOrder": "132",
                     "w": "439",
-                    "measuredW": "432",
+                    "measuredW": "431",
                     "measuredH": "32",
                     "x": "1002",
                     "y": "1415",
@@ -3005,8 +2842,6 @@
                     "y": "1255",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 146,
                             "y": 140
@@ -3019,8 +2854,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3035,8 +2869,6 @@
                     "y": "1255",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 148,
                             "y": 178
@@ -3049,8 +2881,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3081,8 +2912,6 @@
                     "y": "995",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 94,
                             "y": 114
@@ -3095,8 +2924,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3104,7 +2932,7 @@
                     "typeID": "TextInput",
                     "zOrder": "137",
                     "w": "182",
-                    "measuredW": "50",
+                    "measuredW": "48",
                     "measuredH": "32",
                     "x": "1124",
                     "y": "894",
@@ -3127,8 +2955,6 @@
                     "y": "909",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 37,
                             "y": 1
@@ -3141,8 +2967,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3150,7 +2975,7 @@
                     "typeID": "TextInput",
                     "zOrder": "139",
                     "w": "182",
-                    "measuredW": "132",
+                    "measuredW": "133",
                     "measuredH": "32",
                     "x": "1055",
                     "y": "331",
@@ -3173,8 +2998,6 @@
                     "y": "339",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 61,
                             "y": 4
@@ -3187,8 +3010,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3220,7 +3042,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 45,
                             "y": 0
@@ -3233,8 +3054,7 @@
                             "x": 0,
                             "y": 60
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3242,7 +3062,7 @@
                     "typeID": "TextInput",
                     "zOrder": "143",
                     "w": "101",
-                    "measuredW": "62",
+                    "measuredW": "65",
                     "measuredH": "32",
                     "x": "348",
                     "y": "576",
@@ -3265,8 +3085,6 @@
                     "y": "613",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -3279,8 +3097,7 @@
                             "x": 114,
                             "y": 162
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3288,7 +3105,7 @@
                     "typeID": "TextInput",
                     "zOrder": "145",
                     "w": "101",
-                    "measuredW": "95",
+                    "measuredW": "97",
                     "measuredH": "32",
                     "x": "154",
                     "y": "650",
@@ -3311,8 +3128,6 @@
                     "y": "687",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -3325,8 +3140,7 @@
                             "x": 105,
                             "y": 86
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3334,7 +3148,7 @@
                     "typeID": "TextInput",
                     "zOrder": "147",
                     "w": "255",
-                    "measuredW": "248",
+                    "measuredW": "245",
                     "measuredH": "32",
                     "x": "355",
                     "y": "847",
@@ -3358,7 +3172,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 40
@@ -3371,8 +3184,7 @@
                             "x": 156,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3380,7 +3192,7 @@
                     "typeID": "TextInput",
                     "zOrder": "149",
                     "w": "115",
-                    "measuredW": "90",
+                    "measuredW": "93",
                     "measuredH": "32",
                     "x": "147",
                     "y": "809",
@@ -3412,7 +3224,7 @@
                     "typeID": "TextInput",
                     "zOrder": "151",
                     "w": "115",
-                    "measuredW": "76",
+                    "measuredW": "77",
                     "measuredH": "32",
                     "x": "148",
                     "y": "883",
@@ -3451,8 +3263,6 @@
                     "y": "827",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -3465,8 +3275,7 @@
                             "x": 90,
                             "y": 21
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3482,7 +3291,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 8
@@ -3495,8 +3303,7 @@
                             "x": 86,
                             "y": 1
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3512,7 +3319,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 23
@@ -3525,8 +3331,7 @@
                             "x": 84,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3542,7 +3347,6 @@
                     "properties": {
                         "color": "2848996",
                         "direction": "bottom",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 53
@@ -3555,8 +3359,7 @@
                             "x": 96,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3564,7 +3367,7 @@
                     "typeID": "TextInput",
                     "zOrder": "157",
                     "w": "116",
-                    "measuredW": "98",
+                    "measuredW": "100",
                     "measuredH": "32",
                     "x": "185",
                     "y": "327",
@@ -3587,8 +3390,6 @@
                     "y": "385",
                     "properties": {
                         "color": "2848996",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 0,
                             "y": 0
@@ -3601,8 +3402,7 @@
                             "x": 119.99999999999984,
                             "y": 39.18789348884052
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 },
                 {
@@ -3610,7 +3410,7 @@
                     "typeID": "TextInput",
                     "zOrder": "159",
                     "w": "101",
-                    "measuredW": "99",
+                    "measuredW": "102",
                     "measuredH": "32",
                     "x": "582",
                     "y": "471",
@@ -3633,9 +3433,6 @@
                     "y": "457",
                     "properties": {
                         "color": "2848996",
-                        "curvature": "1",
-                        "direction": "top",
-                        "leftArrow": "true",
                         "p0": {
                             "x": 43,
                             "y": 29
@@ -3648,12 +3445,17 @@
                             "x": 0,
                             "y": 0
                         },
-                        "rightArrow": "false",
-                        "shape": "bezier"
+                        "rightArrow": "false"
                     }
                 }
             ]
         },
+        "attributes": {
+            "name": "New Wireframe 2",
+            "order": 938438.5963036916,
+            "parentID": null
+        },
+        "resourceID": "33F7169E-FC5B-42CE-B5DF-D692322B6D60",
         "mockupH": "1715",
         "mockupW": "1360",
         "measuredW": "1474",
